@@ -18,6 +18,12 @@ sites=[
         "url":"https://www.ckcloud.xyz/",
         "reg_url":"https://www.ckcloud.xyz/api/v1/passport/auth/register",
         "sub":"https://www.ckcloud.xyz/api/v1/client/subscribe?token={token}"
+    },
+    {
+        "name":"bafang",
+        "url":"https://user.bafang.vip/",
+        "reg_url":"https://user.bafang.vip/api/v1/passport/auth/register",
+        "sub":"http://dd.ewmld2.one/api/v1/client/subscribe?token={token}"
     }
 ]
 
