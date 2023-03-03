@@ -24,7 +24,14 @@ sites=[
         "url":"https://user.bafang.vip/",
         "reg_url":"https://user.bafang.vip/api/v1/passport/auth/register",
         "sub":"http://dd.ewmld2.one/api/v1/client/subscribe?token={token}"
+    },
+    {
+        "name":"996cat",
+        "url":"https://996cat.com/",
+        "reg_url":"https://996cat.com/api/v1/passport/auth/register",
+        "sub":"http://996cat.com/api/v1/client/subscribe?token={token}"
     }
+    
 ]
 
 class tempsite():
