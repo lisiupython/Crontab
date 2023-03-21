@@ -3,9 +3,9 @@ import requests,random,string
 sites=[
     {
         "name":"feiniao",
-        "url":"https://feiniaoyun.xyz/",
-        "reg_url":"https://feiniaoyun.xyz/api/v1/passport/auth/register",
-        "sub":"https://feiniaoyun.xyz/api/v1/client/subscribe?token={token}"
+        "url":"https://bafangyun.vip/",
+        "reg_url":"https://bafangyun.vip/api/v1/passport/auth/register",
+        "sub":"https://bafangyun.vip/api/v1/client/subscribe?token={token}"
     },
     {
         "name":"circlecloud123",
@@ -52,7 +52,7 @@ class tempsite():
             "invite_code":None,
             "email_code":None
         }
-        req=requests.post(self.reg_url,headers=headers,data=data,timeout=5,proxies=proxy)
+        req=requests.post(self.reg_url,headers=headers,data=data,timeout=10,proxies=proxy)
         return req
         
     def getSubscribe(self):
