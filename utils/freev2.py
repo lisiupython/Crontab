@@ -30,6 +30,12 @@ sites=[
         "url":"https://996cat.com/",
         "reg_url":"https://996cat.com/api/v1/passport/auth/register",
         "sub":"http://996cat.com/api/v1/client/subscribe?token={token}"
+    },
+    {
+        "name":"99yun",
+        "url":"https://99yun.us/",
+        "reg_url":"https://99yun.us/api/v1/passport/auth/register",
+        "sub":"http://99yun.us/api/v1/client/subscribe?token={token}"
     }
     
 ]
