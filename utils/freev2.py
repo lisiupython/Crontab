@@ -23,19 +23,25 @@ sites=[
         "name":"bafang",
         "url":"https://user.bafang.vip/",
         "reg_url":"https://user.bafang.vip/api/v1/passport/auth/register",
-        "sub":"http://dd.ewmld2.one/api/v1/client/subscribe?token={token}"
+        "sub":"https://dd.ewmld2.one/api/v1/client/subscribe?token={token}"
     },
     {
         "name":"996cat",
         "url":"https://996cat.com/",
         "reg_url":"https://996cat.com/api/v1/passport/auth/register",
-        "sub":"http://996cat.com/api/v1/client/subscribe?token={token}"
+        "sub":"https://996cat.com/api/v1/client/subscribe?token={token}"
     },
     {
         "name":"99yun",
         "url":"https://99yun.us/",
         "reg_url":"https://99yun.us/api/v1/passport/auth/register",
-        "sub":"http://99yun.us/api/v1/client/subscribe?token={token}"
+        "sub":"https://99yun.us/api/v1/client/subscribe?token={token}"
+    },
+    {
+        "name":"lowiqnet",
+        "url":"https://www.lowiq.net/",
+        "reg_url":"https://www.lowiq.net/api/v1/passport/auth/register",
+        "sub":"https://www.lowiq.net/api/v1/client/subscribe?token={token}"
     }
     
 ]
