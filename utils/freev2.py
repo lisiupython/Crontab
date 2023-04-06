@@ -23,7 +23,7 @@ sites=[
         "name":"bafang",
         "url":"https://bafangyun.vip/",
         "reg_url":"https://bafangyun.vip/api/v1/passport/auth/register",
-        "sub":"http://www.bbbaf.one/api/v1/client/subscribe?token={token}"
+        "sub":"https://bafangyun.vip/api/v1/client/subscribe?token={token}"
     },
     {
         "name":"996cat",
