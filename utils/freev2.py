@@ -21,9 +21,9 @@ sites=[
     },
     {
         "name":"bafang",
-        "url":"https://user.bafang.vip/",
-        "reg_url":"https://user.bafang.vip/api/v1/passport/auth/register",
-        "sub":"https://dd.ewmld2.one/api/v1/client/subscribe?token={token}"
+        "url":"https://bafangyun.vip/",
+        "reg_url":"https://bafangyun.vip/api/v1/passport/auth/register",
+        "sub":"http://www.bbbaf.one/api/v1/client/subscribe?token={token}"
     },
     {
         "name":"996cat",
