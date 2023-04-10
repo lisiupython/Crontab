@@ -2,7 +2,7 @@ import requests,random,string
 
 sites=[
     {
-        "name":"feiniao",
+        "name":"bafangyun",
         "url":"https://bafangyun.vip/",
         "reg_url":"https://bafangyun.vip/api/v1/passport/auth/register",
         "sub":"https://bafangyun.vip/api/v1/client/subscribe?token={token}"
@@ -26,22 +26,10 @@ sites=[
         "sub":"https://bafangyun.vip/api/v1/client/subscribe?token={token}"
     },
     {
-        "name":"996cat",
-        "url":"https://996cat.com/",
-        "reg_url":"https://996cat.com/api/v1/passport/auth/register",
-        "sub":"https://996cat.com/api/v1/client/subscribe?token={token}"
-    },
-    {
-        "name":"99yun",
-        "url":"https://99yun.us/",
-        "reg_url":"https://99yun.us/api/v1/passport/auth/register",
-        "sub":"https://99yun.us/api/v1/client/subscribe?token={token}"
-    },
-    {
-        "name":"lowiqnet",
-        "url":"https://www.lowiq.net/",
-        "reg_url":"https://www.lowiq.net/api/v1/passport/auth/register",
-        "sub":"https://www.lowiq.net/api/v1/client/subscribe?token={token}"
+        "name":"erdianwu",
+        "url":"http://02.buysim.xyz/",
+        "reg_url":"http://02.buysim.xyz/api/v1/passport/auth/register",
+        "sub":"http://02.buysim.xyz/api/v1/client/subscribe?token={token}"
     }
     
 ]
