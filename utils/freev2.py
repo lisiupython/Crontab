@@ -2,10 +2,10 @@ import requests,random,string
 
 sites=[
     {
-        "name":"bafangyun",
-        "url":"https://bafangyun.vip/",
-        "reg_url":"https://bafangyun.vip/api/v1/passport/auth/register",
-        "sub":"https://bafangyun.vip/api/v1/client/subscribe?token={token}"
+        "name":"bingo",
+        "url":"https://cn.bingovpn.cyou/",
+        "reg_url":"https://cn.bingovpn.cyou/api/v1/passport/auth/register",
+        "sub":"https://v.haoyun.nl/api/v1/client/subscribe?token={token}"
     },
     {
         "name":"circlecloud123",
@@ -26,10 +26,10 @@ sites=[
         "sub":"https://bafangyun.vip/api/v1/client/subscribe?token={token}"
     },
     {
-        "name":"erdianwu",
-        "url":"http://02.buysim.xyz/",
-        "reg_url":"http://02.buysim.xyz/api/v1/passport/auth/register",
-        "sub":"http://02.buysim.xyz/api/v1/client/subscribe?token={token}"
+        "name":"maikcloud",
+        "url":"https://maikcloud.top/",
+        "reg_url":"http://maikcloud.top/api/v1/passport/auth/register",
+        "sub":"http://dy002.maikcloud.top/api/v1/client/subscribe?token={token}"
     }
     
 ]
