@@ -20,10 +20,10 @@ sites=[
         "sub":"https://www.ckcloud.xyz/api/v1/client/subscribe?token={token}"
     },
     {
-        "name":"bafang",
-        "url":"https://bafangyun.vip/",
-        "reg_url":"https://bafangyun.vip/api/v1/passport/auth/register",
-        "sub":"https://bafangyun.vip/api/v1/client/subscribe?token={token}"
+        "name":"tizioo",
+        "url":"https://tizioo11.top/",
+        "reg_url":"https://tizioo11.top/api/v1/passport/auth/register",
+        "sub":"https://tizioo11.top/api/v1/client/subscribe?token={token}"
     },
     {
         "name":"maikcloud",
