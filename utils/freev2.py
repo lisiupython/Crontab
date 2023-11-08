@@ -30,6 +30,12 @@ sites=[
         "url":"https://maikcloud.top/",
         "reg_url":"http://maikcloud.top/api/v1/passport/auth/register",
         "sub":"http://dy002.maikcloud.top/api/v1/client/subscribe?token={token}"
+    },
+    {
+        "name":"scloud",
+        "url":"https://fzdwz.top/",
+        "reg_url":"http://fzdwz.top/api/v1/passport/auth/register",
+        "sub":"http://fzdwz.top/api/v1/client/subscribe?token={token}"
     }
     
 ]
