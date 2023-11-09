@@ -26,10 +26,10 @@ sites=[
         "sub":"https://tizioo11.top/api/v1/client/subscribe?token={token}"
     },
     {
-        "name":"maikcloud",
-        "url":"https://maikcloud.top/",
-        "reg_url":"http://maikcloud.top/api/v1/passport/auth/register",
-        "sub":"http://dy002.maikcloud.top/api/v1/client/subscribe?token={token}"
+        "name":"coo",
+        "url":"https://web.coo.wiki/",
+        "reg_url":"https://web.coo.wiki/api/v1/passport/auth/register",
+        "sub":"https://web.coo.wiki/api/v1/client/subscribe?token={token}"
     },
     {
         "name":"scloud",
