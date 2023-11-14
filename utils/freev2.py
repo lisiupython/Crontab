@@ -21,9 +21,9 @@ sites=[
     },
     {
         "name":"tizioo",
-        "url":"https://tizioo11.top/",
-        "reg_url":"https://tizioo11.top/api/v1/passport/auth/register",
-        "sub":"https://tizioo11.top/api/v1/client/subscribe?token={token}"
+        "url":"https://tizioo12.top/",
+        "reg_url":"https://tizioo12.top/api/v1/passport/auth/register",
+        "sub":"https://tizioo12.top/api/v1/client/subscribe?token={token}"
     },
     {
         "name":"coo",
