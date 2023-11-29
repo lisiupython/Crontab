@@ -36,6 +36,12 @@ sites=[
         "url":"https://fzdwz.top/",
         "reg_url":"http://fzdwz.top/api/v1/passport/auth/register",
         "sub":"http://fzdwz.top/api/v1/client/subscribe?token={token}"
+    },
+    {
+        "name":"daxun",
+        "url":"https://daxun.club/",
+        "reg_url":"http://daxun.club/api/v1/passport/auth/register",
+        "sub":"http://daxun.buzz/api/v1/client/subscribe?token={token}"
     }
     
 ]
