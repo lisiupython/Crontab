@@ -8,10 +8,10 @@ sites=[
         "sub":"https://v.haoyun.nl/api/v1/client/subscribe?token={token}"
     },
     {
-        "name":"circlecloud123",
-        "url":"https://circlecloud123.com/",
-        "reg_url":"https://circlecloud123.com/api/v1/passport/auth/register",
-        "sub":"https://circlecloud123.com/api/v1/client/subscribe?token={token}"
+        "name":"giaoyun",
+        "url":"https://ww1.giaoyun.xyz/",
+        "reg_url":"https://ww1.giaoyun.xyz/api/v1/passport/auth/register",
+        "sub":"https://ww1.giaoyun.xyz/api/v1/client/subscribe?token={token}"
     },
     {
         "name":"ckcloud",
