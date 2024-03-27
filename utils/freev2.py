@@ -8,6 +8,12 @@ sites=[
         "sub":"https://v.haoyun.nl/api/v1/client/subscribe?token={token}"
     },
     {
+        "name":"bingovip",
+        "url":"https://user.bingo100.vip/",
+        "reg_url":"https://x612.bingo100.vip/binapi/passport/auth/register",
+        "sub":"http://dog.haoyun.nl:8080/hi/binapi/client/subscribe?token={token}"
+    },
+    {
         "name":"giaoyun",
         "url":"https://ww1.giaoyun.xyz/",
         "reg_url":"https://ww1.giaoyun.xyz/api/v1/passport/auth/register",
