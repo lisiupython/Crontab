@@ -1,4 +1,9 @@
 import requests,random,string
+import urllib3
+requests.packages.urllib3.util.ssl_.DEFAULT_CIPHERS = 'ALL:@SECLEVEL=1'
+from cfscrape import CloudflareScraper
+
+scraper = CloudflareScraper()
 
 sites=[
     {
@@ -70,7 +75,7 @@ class tempsite():
             "invite_code":None,
             "email_code":None
         }
-        req=requests.post(self.reg_url,headers=headers,data=data,timeout=10,proxies=proxy)
+        req=scraper.post(self.reg_url,headers=headers,data=data,timeout=10,proxies=proxy)
         return req
         
     def getSubscribe(self):
@@ -85,7 +90,7 @@ class tempsite():
         url=self.getSubscribe()
         for k in range(3):
             try:
-                req=requests.get(url,timeout=5)
+                req=scraper.get(url,timeout=5)
                 v2conf=req.text
                 break
             except:
