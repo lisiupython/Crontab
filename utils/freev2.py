@@ -8,15 +8,15 @@ scraper = CloudflareScraper()
 sites=[
     {
         "name":"bingo",
-        "url":"https://cn.bingovpn.cyou/",
-        "reg_url":"https://cn.bingovpn.cyou/api/v1/passport/auth/register",
-        "sub":"https://v.haoyun.nl/api/v1/client/subscribe?token={token}"
+        "url":"https://57.129.65.182/",
+        "reg_url":"https://57.129.65.182/binapi/passport/auth/register",
+        "sub":"https://57.129.65.182/p/{token}"
     },
     {
         "name":"bingovip",
         "url":"https://user.bingo100.vip/",
-        "reg_url":"https://x612.bingo100.vip/binapi/passport/auth/register",
-        "sub":"http://dog.haoyun.nl:8080/hi/binapi/client/subscribe?token={token}"
+        "reg_url":"https://2025b.bingo100.vip/binapi/passport/auth/register",
+        "sub":"http://dog8888.haoyun.nl:8080/hi/binapi/client/subscribe?token={token}"
     },
     {
         "name":"giaoyun",
